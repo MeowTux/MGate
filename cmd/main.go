@@ -1,6 +1,6 @@
 package main
 
-import "github.com/aaaauutan/mgate"
+import "github.com/meowtux/mgate"
 
 func main() {
 	// Initialize MGate
