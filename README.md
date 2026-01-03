@@ -11,13 +11,13 @@ A high-performance, multi-protocol networking gateway written in Go. Designed fo
 
 ## Installation
 ```bash
-go get [github.com/aaaauutan/mgate](https://github.com/aaaauutan/mgate)
+go get github.com/aaaauutan/mgate
 ```
 Quick Start
 ```go
 package main
 
-import "[github.com/aaaauutan/mgate](whttps://github.com/aaaauutan/mgate)"
+import "github.com/aaaauutan/mgate"
 
 func main() {
     // Ignite engine
